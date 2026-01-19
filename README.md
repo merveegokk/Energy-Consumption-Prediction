@@ -25,8 +25,12 @@ Decision Tree  ve Random Forest daha başarılı oldu çünkü bu modeller if el
 
 Bu çalışma sonucunda, bir evin enerji talebinin yarısından fazlasının sadece dış hava koşulları ve zaman parametreleriyle tahmin edilebileceğini kanıtlamış olduk. Bu model, enerji şirketlerinin yük tahmini yapması veya akıllı şehir yönetimi için bir temel oluşturabilir.
 
+Python Programlama Sertifika
 
-
+<img width="739" height="482" alt="Python101Sertifika" src="https://github.com/user-attachments/assets/a12e4636-25a8-40de-ba01-b4e579d8a65b" />
+<img width="769" height="473" alt="Python201Sertifika" src="https://github.com/user-attachments/assets/3ef993b7-a5f4-49e8-9e5c-4a00bd418273" />
+<img width="740" height="464" alt="Python301Sertifika" src="https://github.com/user-attachments/assets/dd75a0ce-5bc5-45f0-8c80-17cd7e806724" />
+<img width="768" height="496" alt="Python401Sertifika" src="https://github.com/user-attachments/assets/f48c41d9-46e0-4c19-89d3-9a5c6013f3b6" />
 
 
 
